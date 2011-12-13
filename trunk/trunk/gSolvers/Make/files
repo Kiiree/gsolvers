@@ -1,0 +1,3 @@
+gSolvers/gPCG/gPCG.C
+gSolvers/gPBiCG/gPBiCG.C
+LIB = $(FOAM_USER_LIBBIN)/libexternalgsolvers
